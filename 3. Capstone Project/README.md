@@ -1,3 +1,13 @@
+## Project Overview
+
+Carnegie Learning's Math Tutor (Mathia So ware ITS) is intented to help high school students learn Math better. PSLC Datashop platform is meant for Education Data Scientists to look for learning analytics' data.rom a research point of view, the methods to achieve low prediction error on unseen education data is still at early stages. Sophisticated ML models could be saving millions of hours of students’ time (and effort) in learning. And we have the potential to influence lesson design, improving retention, increasing student engagement, reducing wasted time, and increasing transfer to future lessons. This project aims to experiment with such an approach.
+
+## Problem Statement
+
+Students who use the Mathia Tutor to solve problems -- their interactions are recorded as logs. This log data can be mined to get insights. My aim is to predict students' correct first attempt (CFA) while solving the math. CFA is a feature in the dataset which is recorded in terms of bit or boolean (0 or 1). Therefore, precise problem domain involved is classification.
+
+Probability can be calculated by sklearn. We can find some models or methods at Sklearn Home and sklearn.svm.libsvm.predict_proba() So, we can get model’s performance metric like log loss on unseen data for measurement.
+
 ## Datasets 
 
 Download the data from http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp
@@ -14,14 +24,14 @@ Working in Anaconda Virtual Environment is recommended.
 
 ## Requirements
 
--Python3.6
--numpy 
--pandas 
--matplotlib
--pickle
--itertools
--sklearn
--catboost 
+* Python3.6
+* numpy 
+* pandas 
+* matplotlib
+* pickle
+* itertools
+* sklearn
+* catboost 
 
 Everything can be installed as pip install <package names>
 
