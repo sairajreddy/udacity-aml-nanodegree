@@ -1,6 +1,6 @@
 ## Project Overview
 
-Carnegie Learning's Math Tutor (Mathia So ware ITS) is intented to help high school students learn Math better. PSLC Datashop platform is meant for Education Data Scientists to look for learning analytics' data.rom a research point of view, the methods to achieve low prediction error on unseen education data is still at early stages. Sophisticated ML models could be saving millions of hours of students’ time (and effort) in learning. And we have the potential to influence lesson design, improving retention, increasing student engagement, reducing wasted time, and increasing transfer to future lessons. This project aims to experiment with such an approach.
+Carnegie Learning's Math Tutor (Mathia So ware ITS) is intented to help high school students learn Math better. PSLC Datashop platform is meant for Education Data Scientists to look for learning analytics' data. From a research point of view, the methods to achieve low prediction error on unseen education data is still at early stages. Sophisticated ML models could be saving millions of hours of students’ time (and effort) in learning. And we have the potential to influence lesson design, improving retention, increasing student engagement, reducing wasted time, and increasing transfer to future lessons. This project aims to experiment with such an approach.
 
 ## Problem Statement
 
