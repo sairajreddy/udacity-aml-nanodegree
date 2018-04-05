@@ -4,7 +4,7 @@ Carnegie Learning's Math Tutor (Mathia So ware ITS) is intented to help high sch
 
 ## Problem Statement
 
-Students who use the Mathia Tutor to solve problems -- their interactions are recorded as logs. This log data was mined to get insights. The aim was to predict students' correct first attempt (CFA) while solving the math. CFA is a feature in the dataset which is recorded in terms of bit or boolean (0 or 1). Therefore, precise problem domain involved is classification.
+Students who used the Mathia Tutor to solve problems -- their interactions were recorded as logs. This log data was mined to get insights. The aim was to predict students' correct first attempt (CFA) while solving the math. CFA is a feature in the dataset which is recorded in terms of bit or boolean (0 or 1). Therefore, precise problem domain involved is classification.
 
 Probability can be calculated by sklearn. We can find some models or methods at Sklearn Home and sklearn.svm.libsvm.predict_proba() So, we can get model’s performance metric like log loss on unseen data for measurement.
 
